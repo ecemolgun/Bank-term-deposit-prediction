@@ -9,16 +9,29 @@ The results obtained in this project showed great potential in the field of data
 ## Variables
 
 1 - Age (numeric)
+
 2 - Job : type of job (categorical: 'admin.','blue-collar','entrepreneur','housemaid','management','retired','self-employed','services','student','technician','unemployed','unknown')
+
 3 - Marital : marital status (categorical: 'divorced','married','single','unknown'; note: 'divorced' means divorced or widowed)
+
 4 - Education (categorical: 'basic.4y','basic.6y','basic.9y','high.school','illiterate','professional.course','university.degree','unknown')
+
 5 - Default: has credit in default? (categorical: 'no','yes','unknown')
+
 6 - Housing: has housing loan? (categorical: 'no','yes','unknown')
+
 7 - Loan: has personal loan? (categorical: 'no','yes','unknown')
+
 8 - Contact: contact communication type (categorical: 'cellular','telephone')
+
 9 - Month: last contact month of year (categorical: 'jan', 'feb', 'mar', ..., 'nov', 'dec')
+
 10 - Day_of_week: last contact day of the week (categorical: 'mon','tue','wed','thu','fri')
+
 ### Other Attributes:
+
 12 - campaign: number of contacts performed during this campaign and for this client (numeric, includes last contact)
+
 13 - pdays: number of days that passed by after the client was last contacted from a previous campaign (numeric; 999 means client was not previously contacted)
+
 14 - previous: number of contacts performed before this campaign and for this client (numeric)
