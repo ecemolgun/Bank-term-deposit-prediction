@@ -30,8 +30,12 @@ The results obtained in this project showed great potential in the field of data
 
 ### Other Attributes:
 
-12 - campaign: number of contacts performed during this campaign and for this client (numeric, includes last contact)
+11 - campaign: number of contacts performed during this campaign and for this client (numeric, includes last contact)
 
-13 - pdays: number of days that passed by after the client was last contacted from a previous campaign (numeric; 999 means client was not previously contacted)
+12 - pdays: number of days that passed by after the client was last contacted from a previous campaign (numeric; 999 means client was not previously contacted)
 
-14 - previous: number of contacts performed before this campaign and for this client (numeric)
+13 - previous: number of contacts performed before this campaign and for this client (numeric)
+
+## Base Model
+
+By using the Voting Classifier method in the modeling phase; Random Forest, KNN, and LightGBM algorithms were used for calculating F1 and Accuracy scores. 
