@@ -1,12 +1,12 @@
 # Bank Term Deposit Prediction
 ![Vadeli_Altin_Mevduat_Hesabi](https://github.com/ecemolgun/Bank-term-deposit-prediction/assets/79108733/05c80f4f-89f0-45ea-bb9c-5c7c95d1d67c)
-# Business Problem
+# Business Problem 🖇️ 📝
 
 The project aims to develop a model that can predict the probability of customers opening a deposit account. In this way, it aims to create effective marketing campaigns for customers who are likely to open a potential deposit account.
 
 The results obtained in this project showed great potential in the field of data analytics and machine learning and I hope it can make a great contribution in increasing the effectiveness of future marketing strategies.
 
-## Variables
+## Variables 🎯
 
 1 - Age (numeric)
 
@@ -36,6 +36,6 @@ The results obtained in this project showed great potential in the field of data
 
 13 - previous: number of contacts performed before this campaign and for this client (numeric)
 
-## Base Model
+## Base Model 🔍
 
 By using the Voting Classifier method in the modeling phase; Random Forest, KNN, and LightGBM algorithms were used for calculating F1 and Accuracy scores. 
