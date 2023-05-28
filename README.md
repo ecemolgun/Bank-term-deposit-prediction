@@ -36,6 +36,11 @@ The results obtained in this project showed great potential in the field of data
 
 13 - previous: number of contacts performed before this campaign and for this client (numeric)
 
+### Output Variable (Desired Target)
+14 - Has the client subscribed a term deposit? (binary: 'yes','no')
+
+
+
 ## Base Model 🔍
 
 By using the Voting Classifier method in the modeling phase; Random Forest, KNN, and LightGBM algorithms were used for calculating F1 and Accuracy scores. 
